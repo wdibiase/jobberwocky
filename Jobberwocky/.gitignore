@@ -1,0 +1,12 @@
+notebooks
+.idea
+.DS_Store
+*.zip
+__pycache__
+*.dump
+*.fw
+*.bin
+venv
+.vs/
+bin/
+obj/
